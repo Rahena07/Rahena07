@@ -1,1 +1,1 @@
-Hi! I am Rahena,I am intrested in technologies Python,Oracle(DBMS),C language.
+Hi! I am Rahena,I am interested in technologies Python,Oracle(DBMS),C language.
